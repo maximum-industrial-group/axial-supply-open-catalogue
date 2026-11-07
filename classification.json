@@ -1,5 +1,21 @@
 [
  {
+  "unspsc": "14111703",
+  "title": "Paper towels",
+  "cpv": [
+   "33760000-5"
+  ],
+  "lines": 12
+ },
+ {
+  "unspsc": "14111704",
+  "title": "Toilet tissue",
+  "cpv": [
+   "33760000-5"
+  ],
+  "lines": 7
+ },
+ {
   "unspsc": "24112402",
   "title": "Hazardous materials cabinets",
   "cpv": [
@@ -33,6 +49,14 @@
   "lines": 102
  },
  {
+  "unspsc": "46181504",
+  "title": "Protective gloves",
+  "cpv": [
+   "18424000-7"
+  ],
+  "lines": 11
+ },
+ {
   "unspsc": "46182103",
   "title": "Grounding hardware",
   "cpv": [
@@ -57,12 +81,52 @@
   "lines": 12
  },
  {
+  "unspsc": "47121701",
+  "title": "Trash bags",
+  "cpv": [
+   "19640000-4"
+  ],
+  "lines": 8
+ },
+ {
+  "unspsc": "47131501",
+  "title": "Rags",
+  "cpv": [
+   "39525800-6"
+  ],
+  "lines": 3
+ },
+ {
   "unspsc": "47131502",
   "title": "Cleaning cloths or wipes",
   "cpv": [
    "39525800-6"
   ],
-  "lines": 21
+  "lines": 26
+ },
+ {
+  "unspsc": "47131600",
+  "title": "Brooms and mops and brushes and accessories",
+  "cpv": [
+   "39224000-8"
+  ],
+  "lines": 26
+ },
+ {
+  "unspsc": "47131700",
+  "title": "Restroom supplies",
+  "cpv": [
+   "39830000-9"
+  ],
+  "lines": 5
+ },
+ {
+  "unspsc": "47131800",
+  "title": "Cleaning and disinfecting solutions",
+  "cpv": [
+   "39830000-9"
+  ],
+  "lines": 15
  },
  {
   "unspsc": "47131900",
@@ -98,5 +162,13 @@
    "39532000-0"
   ],
   "lines": 157
+ },
+ {
+  "unspsc": "53131600",
+  "title": "Bath and body",
+  "cpv": [
+   "33711900-6"
+  ],
+  "lines": 9
  }
 ]
