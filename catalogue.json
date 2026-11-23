@@ -8,7 +8,7 @@
   "email": "sales@axialsupply.co.uk",
   "procurement": "Registered on the Coupa Supplier Portal. Card, purchase order or account.",
   "priceListCsv": "https://axialsupply.co.uk/catalogue.csv",
-  "lines": 795
+  "lines": 803
  },
  "lines": [
   {
@@ -12471,6 +12471,132 @@
    "image": "https://axialsupply.co.uk/images/products/absorbent-sock-oil.webp"
   },
   {
+   "sku": "MS-BND-1000",
+   "description": "Portable Bund 1000 Litres 2000mm (L) x 2000mm (W) x 250mm (H), 1000 litres · Collapsible bund",
+   "category": "Spill pallets",
+   "range": "spill-control",
+   "size": "200cm × 200cm × 25cm",
+   "unit": "each",
+   "priceIncVat": null,
+   "priceExVat": null,
+   "priceOnRequest": true,
+   "currency": "GBP",
+   "unspsc": "47131900",
+   "unspscTitle": "Absorbents",
+   "cpv": [
+    "39830000-9",
+    "35113000-9"
+   ],
+   "suppliedBy": "Maximum Spills",
+   "url": "https://axialsupply.co.uk/part/ms-bnd-1000",
+   "image": null
+  },
+  {
+   "sku": "MS-BND-1875",
+   "description": "Portable Bund 1875 Litres 2000mm (L) x 3500mm (W) x 250mm (H), 1875 litres · Collapsible bund",
+   "category": "Spill pallets",
+   "range": "spill-control",
+   "size": "350cm × 200cm × 25cm",
+   "unit": "each",
+   "priceIncVat": null,
+   "priceExVat": null,
+   "priceOnRequest": true,
+   "currency": "GBP",
+   "unspsc": "47131900",
+   "unspscTitle": "Absorbents",
+   "cpv": [
+    "39830000-9",
+    "35113000-9"
+   ],
+   "suppliedBy": "Maximum Spills",
+   "url": "https://axialsupply.co.uk/part/ms-bnd-1875",
+   "image": null
+  },
+  {
+   "sku": "MS-BND-250",
+   "description": "Portable Bund 250 Litres 1000mm (L) x 1000mm (W) x 250mm (H), 250 litres · Collapsible bund",
+   "category": "Spill pallets",
+   "range": "spill-control",
+   "size": "100cm × 100cm × 25cm",
+   "unit": "each",
+   "priceIncVat": null,
+   "priceExVat": null,
+   "priceOnRequest": true,
+   "currency": "GBP",
+   "unspsc": "47131900",
+   "unspscTitle": "Absorbents",
+   "cpv": [
+    "39830000-9",
+    "35113000-9"
+   ],
+   "suppliedBy": "Maximum Spills",
+   "url": "https://axialsupply.co.uk/part/ms-bnd-250",
+   "image": null
+  },
+  {
+   "sku": "MS-BND-3750",
+   "description": "Portable Bund 3750 Litres 2500mm (L) x 6000mm (W) x 250mm (H), 3750 litres · Collapsible bund",
+   "category": "Spill pallets",
+   "range": "spill-control",
+   "size": "250cm × 600cm × 25cm",
+   "unit": "each",
+   "priceIncVat": null,
+   "priceExVat": null,
+   "priceOnRequest": true,
+   "currency": "GBP",
+   "unspsc": "47131900",
+   "unspscTitle": "Absorbents",
+   "cpv": [
+    "39830000-9",
+    "35113000-9"
+   ],
+   "suppliedBy": "Maximum Spills",
+   "url": "https://axialsupply.co.uk/part/ms-bnd-3750",
+   "image": null
+  },
+  {
+   "sku": "MS-BND-4000",
+   "description": "Portable Bund 4000 Litres 3500mm (L) x 4500mm (W) x 250mm (H), 4000 litres · Collapsible bund",
+   "category": "Spill pallets",
+   "range": "spill-control",
+   "size": "250cm × 600cm × 25cm",
+   "unit": "each",
+   "priceIncVat": null,
+   "priceExVat": null,
+   "priceOnRequest": true,
+   "currency": "GBP",
+   "unspsc": "47131900",
+   "unspscTitle": "Absorbents",
+   "cpv": [
+    "39830000-9",
+    "35113000-9"
+   ],
+   "suppliedBy": "Maximum Spills",
+   "url": "https://axialsupply.co.uk/part/ms-bnd-4000",
+   "image": null
+  },
+  {
+   "sku": "MS-BND-500",
+   "description": "Portable Bund 500 Litres 1000mm (L) x 2000mm (W) x 250mm (H), 500 litres · Collapsible bund",
+   "category": "Spill pallets",
+   "range": "spill-control",
+   "size": "100cm × 200cm × 25cm",
+   "unit": "each",
+   "priceIncVat": null,
+   "priceExVat": null,
+   "priceOnRequest": true,
+   "currency": "GBP",
+   "unspsc": "47131900",
+   "unspscTitle": "Absorbents",
+   "cpv": [
+    "39830000-9",
+    "35113000-9"
+   ],
+   "suppliedBy": "Maximum Spills",
+   "url": "https://axialsupply.co.uk/part/ms-bnd-500",
+   "image": null
+  },
+  {
    "sku": "MS-CAB-1SH",
    "description": "1 Shelf Bunded Cupboard, 225 litre sump · Station cabinet",
    "category": "Storage cabinets",
@@ -12597,6 +12723,27 @@
    "image": null
   },
   {
+   "sku": "MS-CAB-FLM-1SH",
+   "description": "Flammable Liquid Cabinet, 1524 x 915 x 457, 80 litres · Station cabinet",
+   "category": "Storage cabinets",
+   "range": "spill-control",
+   "size": "152cm × 92cm × 46cm",
+   "unit": "each",
+   "priceIncVat": null,
+   "priceExVat": null,
+   "priceOnRequest": true,
+   "currency": "GBP",
+   "unspsc": "24112402",
+   "unspscTitle": "Hazardous materials cabinets",
+   "cpv": [
+    "39122100-4",
+    "35113000-9"
+   ],
+   "suppliedBy": "Maximum Spills",
+   "url": "https://axialsupply.co.uk/part/ms-cab-flm-1sh",
+   "image": null
+  },
+  {
    "sku": "MS-DRN-1",
    "description": "Ready Mixed Clay 1L/1kg, Drain cover",
    "category": "Drain protection",
@@ -12679,6 +12826,27 @@
    "suppliedBy": "Maximum Spills",
    "url": "https://axialsupply.co.uk/part/ms-drn-4545",
    "image": null
+  },
+  {
+   "sku": "MS-DRN-4545-2",
+   "description": "45cm x 45cm PU Drain Cover, Drain cover",
+   "category": "Drain protection",
+   "range": "spill-control",
+   "size": "67cm × 13cm × 13cm",
+   "unit": "each",
+   "priceIncVat": null,
+   "priceExVat": null,
+   "priceOnRequest": true,
+   "currency": "GBP",
+   "unspsc": "47131900",
+   "unspscTitle": "Absorbents",
+   "cpv": [
+    "39830000-9",
+    "35113000-9"
+   ],
+   "suppliedBy": "Maximum Spills",
+   "url": "https://axialsupply.co.uk/part/ms-drn-4545-2",
+   "image": "https://axialsupply.co.uk/images/products/drain-cover-pu.webp"
   },
   {
    "sku": "MS-DRN-6060",
