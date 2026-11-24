@@ -8,7 +8,7 @@
   "email": "sales@axialsupply.co.uk",
   "procurement": "Registered on the Coupa Supplier Portal. Card, purchase order or account.",
   "priceListCsv": "https://axialsupply.co.uk/catalogue.csv",
-  "lines": 803
+  "lines": 817
  },
  "lines": [
   {
@@ -11009,6 +11009,286 @@
    ],
    "suppliedBy": "Maximum Matting",
    "url": "https://axialsupply.co.uk/part/mm-m5-ul",
+   "image": null
+  },
+  {
+   "sku": "MM-M6-DP-BK-091-1000",
+   "description": "M6 Pro Anti-Fatigue Matting, Black Diamond Plate, Standard Mat",
+   "category": "Anti-fatigue mats",
+   "range": "matting",
+   "size": "91 cm x 10 m",
+   "unit": "each",
+   "priceIncVat": 1231.19,
+   "priceExVat": 1025.99,
+   "priceOnRequest": false,
+   "currency": "GBP",
+   "unspsc": "52101500",
+   "unspscTitle": "Rugs and mats",
+   "cpv": [
+    "39532000-0"
+   ],
+   "suppliedBy": "Maximum Matting",
+   "url": "https://axialsupply.co.uk/part/mm-m6-dp-bk-091-1000",
+   "image": null
+  },
+  {
+   "sku": "MM-M6-DP-BK-091-120",
+   "description": "M6 Pro Anti-Fatigue Matting, Black Diamond Plate, Standard Mat",
+   "category": "Anti-fatigue mats",
+   "range": "matting",
+   "size": "91 cm x 120 cm",
+   "unit": "each",
+   "priceIncVat": 148.19,
+   "priceExVat": 123.49,
+   "priceOnRequest": false,
+   "currency": "GBP",
+   "unspsc": "52101500",
+   "unspscTitle": "Rugs and mats",
+   "cpv": [
+    "39532000-0"
+   ],
+   "suppliedBy": "Maximum Matting",
+   "url": "https://axialsupply.co.uk/part/mm-m6-dp-bk-091-120",
+   "image": null
+  },
+  {
+   "sku": "MM-M6-DP-BK-091-150",
+   "description": "M6 Pro Anti-Fatigue Matting, Black Diamond Plate, Standard Mat",
+   "category": "Anti-fatigue mats",
+   "range": "matting",
+   "size": "91 cm x 150 cm",
+   "unit": "each",
+   "priceIncVat": 184.29,
+   "priceExVat": 153.57,
+   "priceOnRequest": false,
+   "currency": "GBP",
+   "unspsc": "52101500",
+   "unspscTitle": "Rugs and mats",
+   "cpv": [
+    "39532000-0"
+   ],
+   "suppliedBy": "Maximum Matting",
+   "url": "https://axialsupply.co.uk/part/mm-m6-dp-bk-091-150",
+   "image": null
+  },
+  {
+   "sku": "MM-M6-DP-BK-091-200",
+   "description": "M6 Pro Anti-Fatigue Matting, Black Diamond Plate, Standard Mat",
+   "category": "Anti-fatigue mats",
+   "range": "matting",
+   "size": "91 cm x 200 cm",
+   "unit": "each",
+   "priceIncVat": 246.04,
+   "priceExVat": 205.03,
+   "priceOnRequest": false,
+   "currency": "GBP",
+   "unspsc": "52101500",
+   "unspscTitle": "Rugs and mats",
+   "cpv": [
+    "39532000-0"
+   ],
+   "suppliedBy": "Maximum Matting",
+   "url": "https://axialsupply.co.uk/part/mm-m6-dp-bk-091-200",
+   "image": null
+  },
+  {
+   "sku": "MM-M6-DP-BK-091-250",
+   "description": "M6 Pro Anti-Fatigue Matting, Black Diamond Plate, Standard Mat",
+   "category": "Anti-fatigue mats",
+   "range": "matting",
+   "size": "91 cm x 250 cm",
+   "unit": "each",
+   "priceIncVat": 307.79,
+   "priceExVat": 256.49,
+   "priceOnRequest": false,
+   "currency": "GBP",
+   "unspsc": "52101500",
+   "unspscTitle": "Rugs and mats",
+   "cpv": [
+    "39532000-0"
+   ],
+   "suppliedBy": "Maximum Matting",
+   "url": "https://axialsupply.co.uk/part/mm-m6-dp-bk-091-250",
+   "image": null
+  },
+  {
+   "sku": "MM-M6-DP-BK-091-300",
+   "description": "M6 Pro Anti-Fatigue Matting, Black Diamond Plate, Standard Mat",
+   "category": "Anti-fatigue mats",
+   "range": "matting",
+   "size": "91 cm x 300 cm",
+   "unit": "each",
+   "priceIncVat": 369.54,
+   "priceExVat": 307.95,
+   "priceOnRequest": false,
+   "currency": "GBP",
+   "unspsc": "52101500",
+   "unspscTitle": "Rugs and mats",
+   "cpv": [
+    "39532000-0"
+   ],
+   "suppliedBy": "Maximum Matting",
+   "url": "https://axialsupply.co.uk/part/mm-m6-dp-bk-091-300",
+   "image": null
+  },
+  {
+   "sku": "MM-M6-DP-BK-091-400",
+   "description": "M6 Pro Anti-Fatigue Matting, Black Diamond Plate, Standard Mat",
+   "category": "Anti-fatigue mats",
+   "range": "matting",
+   "size": "91 cm x 400 cm",
+   "unit": "each",
+   "priceIncVat": 492.09,
+   "priceExVat": 410.07,
+   "priceOnRequest": false,
+   "currency": "GBP",
+   "unspsc": "52101500",
+   "unspscTitle": "Rugs and mats",
+   "cpv": [
+    "39532000-0"
+   ],
+   "suppliedBy": "Maximum Matting",
+   "url": "https://axialsupply.co.uk/part/mm-m6-dp-bk-091-400",
+   "image": null
+  },
+  {
+   "sku": "MM-M6-DP-BK-091-500",
+   "description": "M6 Pro Anti-Fatigue Matting, Black Diamond Plate, Standard Mat",
+   "category": "Anti-fatigue mats",
+   "range": "matting",
+   "size": "91 cm x 500 cm",
+   "unit": "each",
+   "priceIncVat": 615.59,
+   "priceExVat": 512.99,
+   "priceOnRequest": false,
+   "currency": "GBP",
+   "unspsc": "52101500",
+   "unspscTitle": "Rugs and mats",
+   "cpv": [
+    "39532000-0"
+   ],
+   "suppliedBy": "Maximum Matting",
+   "url": "https://axialsupply.co.uk/part/mm-m6-dp-bk-091-500",
+   "image": null
+  },
+  {
+   "sku": "MM-M6-DP-BK-091-CUT",
+   "description": "M6 Pro Anti-Fatigue Matting, Black Diamond Plate, Cut to Length",
+   "category": "Anti-fatigue mats",
+   "range": "matting",
+   "size": "91 cm per linear metre",
+   "unit": "per metre",
+   "priceIncVat": 123.49,
+   "priceExVat": 102.91,
+   "priceOnRequest": false,
+   "currency": "GBP",
+   "unspsc": "52101500",
+   "unspscTitle": "Rugs and mats",
+   "cpv": [
+    "39532000-0"
+   ],
+   "suppliedBy": "Maximum Matting",
+   "url": "https://axialsupply.co.uk/part/mm-m6-dp-bk-091-cut",
+   "image": null
+  },
+  {
+   "sku": "MM-M6-DP-BK-091-ROLL",
+   "description": "M6 Pro Anti-Fatigue Matting, Black Diamond Plate, Full Roll",
+   "category": "Anti-fatigue mats",
+   "range": "matting",
+   "size": "91 cm x 18 m",
+   "unit": "each",
+   "priceIncVat": 2216.34,
+   "priceExVat": 1846.95,
+   "priceOnRequest": false,
+   "currency": "GBP",
+   "unspsc": "52101500",
+   "unspscTitle": "Rugs and mats",
+   "cpv": [
+    "39532000-0"
+   ],
+   "suppliedBy": "Maximum Matting",
+   "url": "https://axialsupply.co.uk/part/mm-m6-dp-bk-091-roll",
+   "image": null
+  },
+  {
+   "sku": "MM-M6-DP-BK-120-200",
+   "description": "M6 Pro Anti-Fatigue Matting, Black Diamond Plate, Standard Mat",
+   "category": "Anti-fatigue mats",
+   "range": "matting",
+   "size": "120 cm x 200 cm",
+   "unit": "each",
+   "priceIncVat": 324.89,
+   "priceExVat": 270.74,
+   "priceOnRequest": false,
+   "currency": "GBP",
+   "unspsc": "52101500",
+   "unspscTitle": "Rugs and mats",
+   "cpv": [
+    "39532000-0"
+   ],
+   "suppliedBy": "Maximum Matting",
+   "url": "https://axialsupply.co.uk/part/mm-m6-dp-bk-120-200",
+   "image": null
+  },
+  {
+   "sku": "MM-M6-DP-BK-120-300",
+   "description": "M6 Pro Anti-Fatigue Matting, Black Diamond Plate, Standard Mat",
+   "category": "Anti-fatigue mats",
+   "range": "matting",
+   "size": "120 cm x 300 cm",
+   "unit": "each",
+   "priceIncVat": 487.34,
+   "priceExVat": 406.12,
+   "priceOnRequest": false,
+   "currency": "GBP",
+   "unspsc": "52101500",
+   "unspscTitle": "Rugs and mats",
+   "cpv": [
+    "39532000-0"
+   ],
+   "suppliedBy": "Maximum Matting",
+   "url": "https://axialsupply.co.uk/part/mm-m6-dp-bk-120-300",
+   "image": null
+  },
+  {
+   "sku": "MM-M6-DP-BK-120-CUT",
+   "description": "M6 Pro Anti-Fatigue Matting, Black Diamond Plate, Cut to Length",
+   "category": "Anti-fatigue mats",
+   "range": "matting",
+   "size": "120 cm per linear metre",
+   "unit": "per metre",
+   "priceIncVat": 162.44,
+   "priceExVat": 135.37,
+   "priceOnRequest": false,
+   "currency": "GBP",
+   "unspsc": "52101500",
+   "unspscTitle": "Rugs and mats",
+   "cpv": [
+    "39532000-0"
+   ],
+   "suppliedBy": "Maximum Matting",
+   "url": "https://axialsupply.co.uk/part/mm-m6-dp-bk-120-cut",
+   "image": null
+  },
+  {
+   "sku": "MM-M6-DP-BK-120-ROLL",
+   "description": "M6 Pro Anti-Fatigue Matting, Black Diamond Plate, Full Roll",
+   "category": "Anti-fatigue mats",
+   "range": "matting",
+   "size": "120 cm x 18 m",
+   "unit": "each",
+   "priceIncVat": 2922.19,
+   "priceExVat": 2435.16,
+   "priceOnRequest": false,
+   "currency": "GBP",
+   "unspsc": "52101500",
+   "unspscTitle": "Rugs and mats",
+   "cpv": [
+    "39532000-0"
+   ],
+   "suppliedBy": "Maximum Matting",
+   "url": "https://axialsupply.co.uk/part/mm-m6-dp-bk-120-roll",
    "image": null
   },
   {
