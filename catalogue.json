@@ -8,7 +8,7 @@
   "email": "sales@axialsupply.co.uk",
   "procurement": "Registered on the Coupa Supplier Portal. Card, purchase order or account.",
   "priceListCsv": "https://axialsupply.co.uk/catalogue.csv",
-  "lines": 817
+  "lines": 818
  },
  "lines": [
   {
@@ -12751,15 +12751,15 @@
    "image": "https://axialsupply.co.uk/images/products/absorbent-sock-oil.webp"
   },
   {
-   "sku": "MS-BND-1000",
-   "description": "Portable Bund 1000 Litres 2000mm (L) x 2000mm (W) x 250mm (H), 1000 litres · Collapsible bund",
+   "sku": "MS-BND-1750",
+   "description": "Portable Containment Bund 250 x 300 x 25cm (1750 litres), 1750 litres · Portable bund",
    "category": "Spill pallets",
    "range": "spill-control",
-   "size": "200cm × 200cm × 25cm",
+   "size": "250cm × 300cm × 25cm",
    "unit": "each",
-   "priceIncVat": null,
-   "priceExVat": null,
-   "priceOnRequest": true,
+   "priceIncVat": 893.9,
+   "priceExVat": 744.92,
+   "priceOnRequest": false,
    "currency": "GBP",
    "unspsc": "47131900",
    "unspscTitle": "Absorbents",
@@ -12768,19 +12768,19 @@
     "35113000-9"
    ],
    "suppliedBy": "Maximum Spills",
-   "url": "https://axialsupply.co.uk/part/ms-bnd-1000",
+   "url": "https://axialsupply.co.uk/part/ms-bnd-1750",
    "image": null
   },
   {
-   "sku": "MS-BND-1875",
-   "description": "Portable Bund 1875 Litres 2000mm (L) x 3500mm (W) x 250mm (H), 1875 litres · Collapsible bund",
+   "sku": "MS-BND-225",
+   "description": "Portable Containment Bund 95 x 95 x 25cm (225 litres), 225 litres · Portable bund",
    "category": "Spill pallets",
    "range": "spill-control",
-   "size": "350cm × 200cm × 25cm",
+   "size": "95cm × 95cm × 25cm",
    "unit": "each",
-   "priceIncVat": null,
-   "priceExVat": null,
-   "priceOnRequest": true,
+   "priceIncVat": 381.85,
+   "priceExVat": 318.21,
+   "priceOnRequest": false,
    "currency": "GBP",
    "unspsc": "47131900",
    "unspscTitle": "Absorbents",
@@ -12789,40 +12789,19 @@
     "35113000-9"
    ],
    "suppliedBy": "Maximum Spills",
-   "url": "https://axialsupply.co.uk/part/ms-bnd-1875",
-   "image": null
-  },
-  {
-   "sku": "MS-BND-250",
-   "description": "Portable Bund 250 Litres 1000mm (L) x 1000mm (W) x 250mm (H), 250 litres · Collapsible bund",
-   "category": "Spill pallets",
-   "range": "spill-control",
-   "size": "100cm × 100cm × 25cm",
-   "unit": "each",
-   "priceIncVat": null,
-   "priceExVat": null,
-   "priceOnRequest": true,
-   "currency": "GBP",
-   "unspsc": "47131900",
-   "unspscTitle": "Absorbents",
-   "cpv": [
-    "39830000-9",
-    "35113000-9"
-   ],
-   "suppliedBy": "Maximum Spills",
-   "url": "https://axialsupply.co.uk/part/ms-bnd-250",
+   "url": "https://axialsupply.co.uk/part/ms-bnd-225",
    "image": null
   },
   {
    "sku": "MS-BND-3750",
-   "description": "Portable Bund 3750 Litres 2500mm (L) x 6000mm (W) x 250mm (H), 3750 litres · Collapsible bund",
+   "description": "Portable Containment Bund 250 x 600 x 25cm (3750 litres), 3750 litres · Portable bund",
    "category": "Spill pallets",
    "range": "spill-control",
    "size": "250cm × 600cm × 25cm",
    "unit": "each",
-   "priceIncVat": null,
-   "priceExVat": null,
-   "priceOnRequest": true,
+   "priceIncVat": 1438.73,
+   "priceExVat": 1198.94,
+   "priceOnRequest": false,
    "currency": "GBP",
    "unspsc": "47131900",
    "unspscTitle": "Absorbents",
@@ -12835,15 +12814,15 @@
    "image": null
   },
   {
-   "sku": "MS-BND-4000",
-   "description": "Portable Bund 4000 Litres 3500mm (L) x 4500mm (W) x 250mm (H), 4000 litres · Collapsible bund",
+   "sku": "MS-BND-562",
+   "description": "Portable Containment Bund 150 x 150 x 25cm (562 litres), 562 litres · Portable bund",
    "category": "Spill pallets",
    "range": "spill-control",
-   "size": "250cm × 600cm × 25cm",
+   "size": "150cm × 150cm × 25cm",
    "unit": "each",
-   "priceIncVat": null,
-   "priceExVat": null,
-   "priceOnRequest": true,
+   "priceIncVat": 553.8,
+   "priceExVat": 461.5,
+   "priceOnRequest": false,
    "currency": "GBP",
    "unspsc": "47131900",
    "unspscTitle": "Absorbents",
@@ -12852,19 +12831,19 @@
     "35113000-9"
    ],
    "suppliedBy": "Maximum Spills",
-   "url": "https://axialsupply.co.uk/part/ms-bnd-4000",
+   "url": "https://axialsupply.co.uk/part/ms-bnd-562",
    "image": null
   },
   {
-   "sku": "MS-BND-500",
-   "description": "Portable Bund 500 Litres 1000mm (L) x 2000mm (W) x 250mm (H), 500 litres · Collapsible bund",
+   "sku": "MS-BND-75",
+   "description": "Portable Containment Bund 50 x 60 x 25cm (75 litres), 75 litres · Portable bund",
    "category": "Spill pallets",
    "range": "spill-control",
-   "size": "100cm × 200cm × 25cm",
+   "size": "50cm × 60cm × 25cm",
    "unit": "each",
-   "priceIncVat": null,
-   "priceExVat": null,
-   "priceOnRequest": true,
+   "priceIncVat": 355.25,
+   "priceExVat": 296.04,
+   "priceOnRequest": false,
    "currency": "GBP",
    "unspsc": "47131900",
    "unspscTitle": "Absorbents",
@@ -12873,7 +12852,28 @@
     "35113000-9"
    ],
    "suppliedBy": "Maximum Spills",
-   "url": "https://axialsupply.co.uk/part/ms-bnd-500",
+   "url": "https://axialsupply.co.uk/part/ms-bnd-75",
+   "image": null
+  },
+  {
+   "sku": "MS-BND-937",
+   "description": "Portable Containment Bund 150 x 250 x 25cm (937 litres), 937 litres · Portable bund",
+   "category": "Spill pallets",
+   "range": "spill-control",
+   "size": "150cm × 250cm × 25cm",
+   "unit": "each",
+   "priceIncVat": 674.93,
+   "priceExVat": 562.44,
+   "priceOnRequest": false,
+   "currency": "GBP",
+   "unspsc": "47131900",
+   "unspscTitle": "Absorbents",
+   "cpv": [
+    "39830000-9",
+    "35113000-9"
+   ],
+   "suppliedBy": "Maximum Spills",
+   "url": "https://axialsupply.co.uk/part/ms-bnd-937",
    "image": null
   },
   {
@@ -13114,9 +13114,9 @@
    "range": "spill-control",
    "size": "67cm × 13cm × 13cm",
    "unit": "each",
-   "priceIncVat": null,
-   "priceExVat": null,
-   "priceOnRequest": true,
+   "priceIncVat": 131.53,
+   "priceExVat": 109.61,
+   "priceOnRequest": false,
    "currency": "GBP",
    "unspsc": "47131900",
    "unspscTitle": "Absorbents",
@@ -13127,6 +13127,27 @@
    "suppliedBy": "Maximum Spills",
    "url": "https://axialsupply.co.uk/part/ms-drn-4545-2",
    "image": "https://axialsupply.co.uk/images/products/drain-cover-pu.webp"
+  },
+  {
+   "sku": "MS-DRN-4545-3",
+   "description": "45cm x 45cm PU Drain Cover & Vinyl Holdall, Drain cover",
+   "category": "Drain protection",
+   "range": "spill-control",
+   "size": "67cm × 13cm × 13cm",
+   "unit": "each",
+   "priceIncVat": 164.3,
+   "priceExVat": 136.92,
+   "priceOnRequest": false,
+   "currency": "GBP",
+   "unspsc": "47131900",
+   "unspscTitle": "Absorbents",
+   "cpv": [
+    "39830000-9",
+    "35113000-9"
+   ],
+   "suppliedBy": "Maximum Spills",
+   "url": "https://axialsupply.co.uk/part/ms-drn-4545-3",
+   "image": "https://axialsupply.co.uk/images/products/drain-cover-holdall.webp"
   },
   {
    "sku": "MS-DRN-6060",
@@ -13315,7 +13336,7 @@
    ],
    "suppliedBy": "Maximum Spills",
    "url": "https://axialsupply.co.uk/part/ms-eco-oil-120-wb",
-   "image": "https://axialsupply.co.uk/images/products/spill-kit-bag-oil.webp"
+   "image": "https://axialsupply.co.uk/images/products/spill-kit-wheelie-bin.webp"
   },
   {
    "sku": "MS-ECO-OIL-240-WB",
@@ -13336,7 +13357,7 @@
    ],
    "suppliedBy": "Maximum Spills",
    "url": "https://axialsupply.co.uk/part/ms-eco-oil-240-wb",
-   "image": "https://axialsupply.co.uk/images/products/spill-kit-bag-oil.webp"
+   "image": "https://axialsupply.co.uk/images/products/spill-kit-wheelie-bin.webp"
   },
   {
    "sku": "MS-ECO-OIL-30-CT",
@@ -13697,7 +13718,7 @@
   },
   {
    "sku": "MS-KIT-CH-80-SB",
-   "description": "80L Chemical Spill Kit, Wheeled Bin, 80 litres · Static wheeled bin",
+   "description": "80L Chemical Spill Kit, Static Bin, 80 litres · Static bin",
    "category": "Chemical spill kits",
    "range": "spill-control",
    "size": "73cm × 56cm",
@@ -13714,7 +13735,7 @@
    ],
    "suppliedBy": "Maximum Spills",
    "url": "https://axialsupply.co.uk/part/ms-kit-ch-80-sb",
-   "image": "https://axialsupply.co.uk/images/products/spill-kit-bag-chemical.webp"
+   "image": null
   },
   {
    "sku": "MS-KIT-MN-10-CT",
@@ -13907,7 +13928,7 @@
   },
   {
    "sku": "MS-KIT-MN-80-SB",
-   "description": "80L Universal Spill Kit, Wheeled Bin, 80 litres · Static wheeled bin",
+   "description": "80L Universal Spill Kit, Static Bin, 80 litres · Static bin",
    "category": "Universal spill kits",
    "range": "spill-control",
    "size": "73cm × 56cm",
@@ -13924,7 +13945,7 @@
    ],
    "suppliedBy": "Maximum Spills",
    "url": "https://axialsupply.co.uk/part/ms-kit-mn-80-sb",
-   "image": "https://axialsupply.co.uk/images/products/spill-kit-bag-universal.webp"
+   "image": null
   },
   {
    "sku": "MS-KIT-OIL-10-CT",
@@ -14117,7 +14138,7 @@
   },
   {
    "sku": "MS-KIT-OIL-80-SB",
-   "description": "80L Oil-Only Spill Kit, Wheeled Bin, 80 litres · Static wheeled bin",
+   "description": "80L Oil-Only Spill Kit, Static Bin, 80 litres · Static bin",
    "category": "Oil spill kits",
    "range": "spill-control",
    "size": "73cm × 56cm",
@@ -14134,7 +14155,7 @@
    ],
    "suppliedBy": "Maximum Spills",
    "url": "https://axialsupply.co.uk/part/ms-kit-oil-80-sb",
-   "image": "https://axialsupply.co.uk/images/products/spill-kit-bag-oil.webp"
+   "image": null
   },
   {
    "sku": "MS-NAP-1000685",
